@@ -52,7 +52,7 @@ No simulation output is stored here.
 ## Large files
 
 Files larger than 50 MB are not in the Git repository. They are in the Zenodo archive of this gallery
-(the DOI will be added here), under the same relative paths. `MANIFEST.csv` lists every file with its size,
+(<https://doi.org/10.5281/zenodo.24318131>), under the same relative paths. `MANIFEST.csv` lists every file with its size,
 SHA-256 checksum and location.
 
 ## Running an example
